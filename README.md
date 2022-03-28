@@ -16,7 +16,7 @@ Aplicação responsável por gerenciar o cadastro de produtos e a avaliação do
 - Cadastro e detalhes de um produto;
 - Cadastro, edição e remoção de reviews dos produtos;
 
-Link: https://devreview-api.azurewebsites.net/swagger/index.html
+Link da API publicada no Azure App Service: https://devreview-api.azurewebsites.net/swagger/index.html
 
 ![image](https://user-images.githubusercontent.com/62728039/160255043-9d70263e-81f3-45b2-bc29-f9a463f9322f.png)
 
